@@ -1,0 +1,116 @@
+{
+  "status": "passed",
+  "version": "V2",
+  "v1_preserved": true,
+  "original_audio_preserved": true,
+  "timing": "estimated_sentence",
+  "width": 1920,
+  "height": 1080,
+  "fps": "30/1",
+  "frames": 3098,
+  "video_duration": 103.266667,
+  "container_duration": 103.266667,
+  "original_audio_duration": 103.23591836734694,
+  "encoded_audio_duration": 103.236009,
+  "narration_waveform_correlation": 0.9999807689988458,
+  "size_bytes": 33109139,
+  "sha256": "18a54e7a497f1c6450ee6f925edce136ad43c30c48611de1cb14de307f0fa00c",
+  "review_frames": 105,
+  "boundary_frame_changes": [
+    {
+      "sentence": 2,
+      "time": 2.440748,
+      "mean_absolute_pixel_change": 15.8289
+    },
+    {
+      "sentence": 3,
+      "time": 10.871293,
+      "mean_absolute_pixel_change": 10.439
+    },
+    {
+      "sentence": 4,
+      "time": 15.705714,
+      "mean_absolute_pixel_change": 2.2445
+    },
+    {
+      "sentence": 5,
+      "time": 19.166757,
+      "mean_absolute_pixel_change": 10.0473
+    },
+    {
+      "sentence": 6,
+      "time": 28.445125,
+      "mean_absolute_pixel_change": 11.401
+    },
+    {
+      "sentence": 7,
+      "time": 31.490181,
+      "mean_absolute_pixel_change": 2.538
+    },
+    {
+      "sentence": 8,
+      "time": 33.620227,
+      "mean_absolute_pixel_change": 4.557
+    },
+    {
+      "sentence": 9,
+      "time": 39.817234,
+      "mean_absolute_pixel_change": 10.533
+    },
+    {
+      "sentence": 10,
+      "time": 44.211633,
+      "mean_absolute_pixel_change": 13.8736
+    },
+    {
+      "sentence": 11,
+      "time": 51.924308,
+      "mean_absolute_pixel_change": 13.5202
+    },
+    {
+      "sentence": 12,
+      "time": 54.63873,
+      "mean_absolute_pixel_change": 1.3081
+    },
+    {
+      "sentence": 13,
+      "time": 60.685442,
+      "mean_absolute_pixel_change": 11.5125
+    },
+    {
+      "sentence": 14,
+      "time": 66.97034,
+      "mean_absolute_pixel_change": 11.8299
+    },
+    {
+      "sentence": 15,
+      "time": 73.936916,
+      "mean_absolute_pixel_change": 9.4941
+    },
+    {
+      "sentence": 16,
+      "time": 76.527302,
+      "mean_absolute_pixel_change": 1.5407
+    },
+    {
+      "sentence": 17,
+      "time": 83.760975,
+      "mean_absolute_pixel_change": 9.6903
+    },
+    {
+      "sentence": 18,
+      "time": 86.702313,
+      "mean_absolute_pixel_change": 1.9409
+    },
+    {
+      "sentence": 19,
+      "time": 88.559932,
+      "mean_absolute_pixel_change": 2.7002
+    },
+    {
+      "sentence": 20,
+      "time": 95.155442,
+      "mean_absolute_pixel_change": 2.4742
+    }
+  ]
+}
