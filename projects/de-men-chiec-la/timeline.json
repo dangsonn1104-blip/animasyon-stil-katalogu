@@ -1,0 +1,6 @@
+{
+  "title": "Dế Mèn — Chiếc Lá Cuối Mùa",
+  "fps": 30, "frames": 1800, "sample_rate": 48000,
+  "cues": {"sleep":0,"stir":210,"fall":300,"grasp":360,"lift":450,"pages":570,"river":810,"release":900,"wings":1080,"joy":1200,"land":1350,"scatter":1470,"stars":1620,"antenna":1710,"end":1800},
+  "acts": [{"start":0,"end":360,"name":"Mái lá","music":"felt piano / celesta"},{"start":360,"end":810,"name":"Cơn gió","music":"pizzicato / accelerating motif"},{"start":810,"end":1350,"name":"Dòng trăng","music":"legato strings / open harmony"},{"start":1350,"end":1800,"name":"Điều còn lại","music":"strings and piano / sustained resolution"}]
+}

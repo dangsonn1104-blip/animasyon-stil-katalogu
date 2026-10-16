@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "title": "Dế Mèn — Chiếc Lá Cuối Mùa",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 1800,
+    "duration": 60,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "audio_duration": 60.0,
+    "size_bytes": 22140580,
+    "sha256": "02d8af9fc5ac3c18da3bbf5b2c089f2c020ee1576ab37943217ee4cf12a7dd88"
+  },
+  "wav": {
+    "score.wav": {
+      "samples": 2880000,
+      "channels": 2,
+      "duration": 60.0,
+      "peak_dbfs": -1.838510926820018
+    },
+    "soundtrack.wav": {
+      "samples": 2880000,
+      "channels": 2,
+      "duration": 60.0,
+      "peak_dbfs": -1.7242919066612568
+    }
+  },
+  "decoded_narration": false,
+  "aac_mix_correlation": 0.9984756116433182,
+  "continuity": {
+    "adjacent_frame_mean_difference": 0.4445005598675076,
+    "max_adjacent_difference": 2.1917438271604937,
+    "max_difference_frame": 827,
+    "cue_adjacent_differences": {
+      "210": 0.23591820987654322,
+      "300": 0.16171553497942387,
+      "360": 0.1932227366255144,
+      "450": 0.31565072016460904,
+      "570": 0.8125643004115226,
+      "810": 1.1042309670781894,
+      "900": 0.06397890946502058,
+      "1080": 0.19560185185185186,
+      "1200": 0.3558384773662551,
+      "1350": 0.5851980452674898,
+      "1470": 0.06616512345679013,
+      "1620": 0.2397119341563786,
+      "1710": 0.22755915637860083
+    },
+    "minimum_brightness": 53.977366255144034
+  },
+  "review_frames": 32,
+  "frame_location": "/workspace/cloud-setup/de-men-final-frames",
+  "contact_sheet": "output/de-men-chiec-la-contact-sheet.jpg"
+}

@@ -1,0 +1,1072 @@
+{
+  "sample_rate": 48000,
+  "samples": 2880000,
+  "duration": 60.0,
+  "peak_dbfs": -1.7237229523256667,
+  "rms_dbfs": -18.09494116744007,
+  "notes": [
+    {
+      "frame": 0,
+      "midi": 38,
+      "duration": 5.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 8,
+      "midi": 53,
+      "duration": 5.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 16,
+      "midi": 57,
+      "duration": 5.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 24,
+      "midi": 60,
+      "duration": 5.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 32,
+      "midi": 64,
+      "duration": 5.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 180,
+      "midi": 34,
+      "duration": 5.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 188,
+      "midi": 53,
+      "duration": 5.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 196,
+      "midi": 57,
+      "duration": 5.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 204,
+      "midi": 62,
+      "duration": 5.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 212,
+      "midi": 65,
+      "duration": 5.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 24,
+      "midi": 74,
+      "duration": 2.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 54,
+      "midi": 81,
+      "duration": 2.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 90,
+      "midi": 84,
+      "duration": 2.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 132,
+      "midi": 88,
+      "duration": 2.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 165,
+      "midi": 86,
+      "duration": 2.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 198,
+      "midi": 74,
+      "duration": 2.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 228,
+      "midi": 81,
+      "duration": 2.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 264,
+      "midi": 84,
+      "duration": 2.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 306,
+      "midi": 88,
+      "duration": 2.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 339,
+      "midi": 86,
+      "duration": 2.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 100,
+      "midi": 93,
+      "duration": 3,
+      "instrument": "bell"
+    },
+    {
+      "frame": 265,
+      "midi": 88,
+      "duration": 3,
+      "instrument": "bell"
+    },
+    {
+      "frame": 310,
+      "midi": 86,
+      "duration": 3,
+      "instrument": "bell"
+    },
+    {
+      "frame": 360,
+      "midi": 50,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 375,
+      "midi": 57,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 390,
+      "midi": 62,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 405,
+      "midi": 65,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 420,
+      "midi": 50,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 435,
+      "midi": 50,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 450,
+      "midi": 57,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 465,
+      "midi": 62,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 480,
+      "midi": 65,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 495,
+      "midi": 50,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 510,
+      "midi": 43,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 525,
+      "midi": 55,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 540,
+      "midi": 58,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 555,
+      "midi": 62,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 570,
+      "midi": 43,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 585,
+      "midi": 43,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 597,
+      "midi": 55,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 609,
+      "midi": 58,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 621,
+      "midi": 62,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 633,
+      "midi": 43,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 645,
+      "midi": 55,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 657,
+      "midi": 58,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 660,
+      "midi": 45,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 672,
+      "midi": 57,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 684,
+      "midi": 62,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 696,
+      "midi": 64,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 708,
+      "midi": 45,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 720,
+      "midi": 57,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 732,
+      "midi": 62,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 735,
+      "midi": 45,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 747,
+      "midi": 57,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 759,
+      "midi": 62,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 771,
+      "midi": 64,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 783,
+      "midi": 45,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 795,
+      "midi": 57,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 807,
+      "midi": 62,
+      "duration": 0.65,
+      "instrument": "pizz"
+    },
+    {
+      "frame": 372,
+      "midi": 74,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 396,
+      "midi": 81,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 420,
+      "midi": 84,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 438,
+      "midi": 88,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 465,
+      "midi": 86,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 510,
+      "midi": 74,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 534,
+      "midi": 81,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 558,
+      "midi": 84,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 576,
+      "midi": 88,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 603,
+      "midi": 86,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 660,
+      "midi": 74,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 684,
+      "midi": 81,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 708,
+      "midi": 84,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 726,
+      "midi": 88,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 753,
+      "midi": 86,
+      "duration": 1.3,
+      "instrument": "piano"
+    },
+    {
+      "frame": 750,
+      "midi": 57,
+      "duration": 2,
+      "instrument": "strings"
+    },
+    {
+      "frame": 768,
+      "midi": 64,
+      "duration": 1.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 810,
+      "midi": 38,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 810,
+      "midi": 57,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 810,
+      "midi": 60,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 810,
+      "midi": 65,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 810,
+      "midi": 69,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 825,
+      "midi": 72,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 840,
+      "midi": 77,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 855,
+      "midi": 69,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 870,
+      "midi": 72,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 885,
+      "midi": 77,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 900,
+      "midi": 41,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 900,
+      "midi": 57,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 900,
+      "midi": 60,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 900,
+      "midi": 67,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 900,
+      "midi": 69,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 915,
+      "midi": 72,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 930,
+      "midi": 79,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 945,
+      "midi": 69,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 960,
+      "midi": 72,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 975,
+      "midi": 79,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 990,
+      "midi": 43,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 990,
+      "midi": 58,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 990,
+      "midi": 62,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 990,
+      "midi": 69,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 990,
+      "midi": 70,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1005,
+      "midi": 74,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1020,
+      "midi": 81,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1035,
+      "midi": 70,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1050,
+      "midi": 74,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1065,
+      "midi": 81,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1080,
+      "midi": 48,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1080,
+      "midi": 55,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1080,
+      "midi": 62,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1080,
+      "midi": 67,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1080,
+      "midi": 67,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1095,
+      "midi": 74,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1110,
+      "midi": 79,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1125,
+      "midi": 67,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1140,
+      "midi": 74,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1155,
+      "midi": 79,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1170,
+      "midi": 46,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1170,
+      "midi": 57,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1170,
+      "midi": 62,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1170,
+      "midi": 65,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1170,
+      "midi": 69,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1185,
+      "midi": 74,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1200,
+      "midi": 77,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1215,
+      "midi": 69,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1230,
+      "midi": 74,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1245,
+      "midi": 77,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1260,
+      "midi": 45,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1260,
+      "midi": 57,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1260,
+      "midi": 61,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1260,
+      "midi": 64,
+      "duration": 4.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1260,
+      "midi": 69,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1275,
+      "midi": 73,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1290,
+      "midi": 76,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1305,
+      "midi": 69,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1320,
+      "midi": 73,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1335,
+      "midi": 76,
+      "duration": 1.4,
+      "instrument": "piano"
+    },
+    {
+      "frame": 810,
+      "midi": 74,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 840,
+      "midi": 81,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 876,
+      "midi": 84,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 915,
+      "midi": 88,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 954,
+      "midi": 86,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 990,
+      "midi": 79,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1020,
+      "midi": 86,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1056,
+      "midi": 89,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1095,
+      "midi": 93,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1134,
+      "midi": 91,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1170,
+      "midi": 86,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1200,
+      "midi": 93,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1236,
+      "midi": 96,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1275,
+      "midi": 100,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1314,
+      "midi": 98,
+      "duration": 2.1,
+      "instrument": "strings"
+    },
+    {
+      "frame": 900,
+      "midi": 93,
+      "duration": 3.5,
+      "instrument": "bell"
+    },
+    {
+      "frame": 1080,
+      "midi": 96,
+      "duration": 3.5,
+      "instrument": "bell"
+    },
+    {
+      "frame": 1200,
+      "midi": 98,
+      "duration": 3.5,
+      "instrument": "bell"
+    },
+    {
+      "frame": 1280,
+      "midi": 100,
+      "duration": 3.5,
+      "instrument": "bell"
+    },
+    {
+      "frame": 1350,
+      "midi": 38,
+      "duration": 5.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1353,
+      "midi": 57,
+      "duration": 5.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1356,
+      "midi": 62,
+      "duration": 5.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1359,
+      "midi": 66,
+      "duration": 5.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1362,
+      "midi": 69,
+      "duration": 5.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1470,
+      "midi": 43,
+      "duration": 5.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1473,
+      "midi": 58,
+      "duration": 5.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1476,
+      "midi": 62,
+      "duration": 5.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1479,
+      "midi": 65,
+      "duration": 5.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1482,
+      "midi": 69,
+      "duration": 5.4,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1590,
+      "midi": 38,
+      "duration": 6.8,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1593,
+      "midi": 57,
+      "duration": 6.8,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1596,
+      "midi": 62,
+      "duration": 6.8,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1599,
+      "midi": 66,
+      "duration": 6.8,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1602,
+      "midi": 69,
+      "duration": 6.8,
+      "instrument": "strings"
+    },
+    {
+      "frame": 1350,
+      "midi": 74,
+      "duration": 4.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1395,
+      "midi": 81,
+      "duration": 4.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1440,
+      "midi": 84,
+      "duration": 4.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1500,
+      "midi": 88,
+      "duration": 4.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1560,
+      "midi": 86,
+      "duration": 4.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1620,
+      "midi": 86,
+      "duration": 4.8,
+      "instrument": "piano"
+    },
+    {
+      "frame": 1710,
+      "midi": 98,
+      "duration": 3,
+      "instrument": "bell"
+    }
+  ],
+  "source": "All instruments and effects synthesized by music.py; no sampled recordings."
+}
